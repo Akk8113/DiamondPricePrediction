@@ -1,6 +1,7 @@
 from setuptools import find_packages,setup
 from typing import List
 
+git remote set-url origin https://github.com/Akk8113/DiamondPricePrediction.git
 
 HYPEN_E_DOT = '-e .'
 
